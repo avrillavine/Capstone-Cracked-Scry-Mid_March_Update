@@ -1,0 +1,104 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!21 &2100000
+Material:
+  serializedVersion: 6
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: Dynamic Hair
+  m_Shader: {fileID: 4800000, guid: 600c96371a9bdeb4682b9e55ee6e3778, type: 3}
+  m_ShaderKeywords: BOOLEAN_5E0FEA04_ON BOOLEAN_7F6935B5_ON
+  m_LightmapFlags: 4
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs:
+    - _BumpMap:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _EmissionMap:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _MainTex:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _MetallicGlossMap:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _OcclusionMap:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _SampleTexture2D_393DF942_Texture:
+        m_Texture: {fileID: 2800000, guid: f727c549f74a3bc41917e297809c058f, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _SampleTexture2D_70C5EE12_Texture:
+        m_Texture: {fileID: 2800000, guid: 995d9b23351a21f4fadb77cc3ba73aa3, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _SampleTexture2D_9449BC1C_Texture:
+        m_Texture: {fileID: 2800000, guid: dda475d69248f104398a9b97db98a4d5, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _SampleTexture2D_D8F61084_Texture:
+        m_Texture: {fileID: 2800000, guid: 37c835fd2d9985249a0f75adde6fa7ef, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _SampleTexture2D_E163BABC_Texture:
+        m_Texture: {fileID: 2800000, guid: d3d02e7b63f1f2c4981d2c0d0ca24425, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _SampleTexture2D_F4D0EB8_Texture:
+        m_Texture: {fileID: 2800000, guid: 364e21fae0f983c4e907fe8f0fe4f5fd, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _SpecGlossMap:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    m_Floats:
+    - Boolean_5E0FEA04: 1
+    - Boolean_7F6935B5: 1
+    - Vector1_14B09115: 0.5
+    - Vector1_205206DF: 0.46
+    - Vector1_2BF4ABDF: 0.43
+    - Vector1_62D4DFDC: 0.98
+    - Vector1_885F8861: 1
+    - Vector1_89642B33: 1
+    - Vector1_F78E4E35: 0
+    - _AlphaClip: 0
+    - _Blend: 0
+    - _BumpScale: 1
+    - _Cull: 2
+    - _Cutoff: 0.5
+    - _DstBlend: 0
+    - _GlossMapScale: 1
+    - _Glossiness: 0.5
+    - _GlossyReflections: 1
+    - _Metallic: 0
+    - _OcclusionStrength: 1
+    - _ReceiveShadows: 1
+    - _SmoothnessTextureChannel: 0
+    - _SpecularHighlights: 1
+    - _SrcBlend: 1
+    - _Surface: 0
+    - _WorkflowMode: 1
+    - _ZWrite: 1
+    m_Colors:
+    - Color_5B45F244: {r: 1.3773584, g: 0.69496197, b: 0.22739404, a: 1}
+    - Color_B34F5FF1: {r: 1.1921569, g: 0.76862746, b: 0.47843137, a: 1}
+    - Vector2_74F15DB5: {r: 0, g: 1, b: 0, a: 0}
+    - _Color: {r: 0.5, g: 0.5, b: 0.5, a: 1}
+    - _EmissionColor: {r: 0, g: 0, b: 0, a: 1}
+    - _SpecColor: {r: 0.2, g: 0.2, b: 0.2, a: 1}
